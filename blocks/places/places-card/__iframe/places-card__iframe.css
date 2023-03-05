@@ -1,11 +1,16 @@
 .places-card__iframe {
-	display: flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
-	margin-top: 48px;
 	width: 355px;
   height: 48px;
   background: #0278FE;
   border-radius: 4px;
+  grid-column-start: 1;
+  grid-column-end: 1;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  column-gap: 40px;
 }
 
 .places-card__iframe:hover {
