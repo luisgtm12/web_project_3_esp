@@ -1,0 +1,13 @@
+.places-card__iframe {
+	display: flex;
+  align-items: center;
+	margin-top: 48px;
+	width: 355px;
+  height: 48px;
+  background: #0278FE;
+  border-radius: 4px;
+}
+
+.places-card__iframe:hover {
+	background: #0063D2;
+}

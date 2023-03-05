@@ -1,0 +1,5 @@
+.places-card__description {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}

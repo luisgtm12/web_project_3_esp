@@ -1,0 +1,13 @@
+.cover__iframe {
+	display: flex;
+  flex-direction: row;
+  align-items: center;
+	width: 198px;
+  height: 48px;
+  background: #0278FE;
+  border-radius: 4px;
+}
+
+.cover__iframe:hover {
+	background: #0063D2;
+}

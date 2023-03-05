@@ -1,0 +1,8 @@
+.places-card {
+  display: flex;
+	width: 984px;
+  grid-template-columns: repeat(2, 1fr);
+  display: grid;
+  margin-top: 92px;
+  grid-gap: 48px;
+}

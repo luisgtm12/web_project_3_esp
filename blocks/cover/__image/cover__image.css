@@ -1,0 +1,10 @@
+.cover__image {
+	background: #2A2C2F;
+  opacity: 0.8;
+  width: 1184px;
+  object-fit: cover;
+}
+
+.cover__image:hover {
+	opacity: 0.3;
+}
