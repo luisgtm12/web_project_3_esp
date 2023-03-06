@@ -1,9 +1,8 @@
-.cover__iframe_text {
+.places-card__iframe-text {
 	font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 22px;
   color: #FFFFFF;
-	padding-left: 20px;
 	text-decoration: none;
 }

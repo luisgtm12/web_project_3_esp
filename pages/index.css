@@ -22,14 +22,14 @@
 @import url('../blocks/places/places-card/__author/places-card__author.css');
 @import url('../blocks/places/places-card/__paragraph/places-card__paragraph.css');
 @import url('../blocks/places/places-card/__iframe/places-card__iframe.css');
-@import url('../blocks/places/places-card/__iframe/_text/places-card__iframe_text.css');
+@import url('../blocks/places/places-card/__iframe/-text/places-card__iframe-text.css');
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__image/cover__image.css');
 @import url('../blocks/cover/__container/cover__container.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__iframe/cover__iframe.css');
-@import url('../blocks/cover/__iframe/_text/cover__iframe_text.css');
+@import url('../blocks/cover/__iframe/-text/cover__iframe-text.css');
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
 @import url('../media-queries/media-queries.css');
