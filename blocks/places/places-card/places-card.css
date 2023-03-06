@@ -1,6 +1,5 @@
 .places-card {
-  display: flex;
-	width: 984px;
+  width: 984px;
   display: grid;
   margin-top: 100px;
   grid-template-columns: repeat(2, 1fr);
